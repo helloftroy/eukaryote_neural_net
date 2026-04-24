@@ -78,7 +78,7 @@ python src/predict.py --sequence "ATGCGAT..."
 ## 🧪 Technical Details
 
 * **Target Organisms**: Eukaryotic genomes (adaptable for model organisms like *S. cerevisiae* or *Arabidopsis*)
-* **Framework**: *(e.g., PyTorch / TensorFlow)*
+* **Framework**: *PyTorch*
 * **Evaluation Metrics**: Precision-Recall curves, F1-scores, and Mean Squared Error (MSE) for promoter quantification
 
 ---
